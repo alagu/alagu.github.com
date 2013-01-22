@@ -18,6 +18,7 @@ Listing all the hacks that I've tried in the past, just for the record.
 * [PNR api](http://pnrapi.alagu.net/)
 * [Time stamp tool](http://timestamp-tool.appspot.com/)
 * [Ascent downloader](https://github.com/alagu/scripts/blob/master/ascent_downloader.py)
+* [Calvin and Hobbes Search](http://alagu.github.com/calvinsearch/)
 * Pidgin cricket score
 * [Olark open source](https://github.com/alagu/opensource-olark)
 * Personal photoblog - android, j2me, app engine. YouTube radio
