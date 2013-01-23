@@ -19,3 +19,15 @@ I love Calvin and Hobbes. Some of my favourites:
 * I get these dreams quite often
 
 ![Flying](http://assets.amuniversal.com/8c4d306e250d102d94d7001438c0f03b)
+
+* Smaller accomplishments
+
+![Accomplishments](http://assets.amuniversal.com/db10c332250d102d94d7001438c0f03b)
+
+* Introspection on being a wimp
+
+![Wimp](http://assets.amuniversal.com/6de010062508102d94d7001438c0f03b)
+
+* Why not please yourself?
+
+![Please yourself](http://assets.amuniversal.com/eb29adae250a102d94d7001438c0f03b)
