@@ -32,6 +32,6 @@ I love Calvin and Hobbes. Some of my favourites:
 
 ![Please yourself](http://assets.amuniversal.com/eb29adae250a102d94d7001438c0f03b)
 
-* Go exploring!
+* Such an upbeat, go exploring!
 
 ![Exploring](http://assets.amuniversal.com/5cc0ebee250b102d94d7001438c0f03b)
