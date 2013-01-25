@@ -35,3 +35,11 @@ I love Calvin and Hobbes. Some of my favourites:
 * Such an upbeat, go exploring!
 
 ![Exploring](http://assets.amuniversal.com/5cc0ebee250b102d94d7001438c0f03b)
+
+Wallpapers
+----------
+
+My Nexus One wallpaper:
+
+<a href="/assets/images/calvin/calvin-home.png"><img src="/assets/images/calvin/screenshot-home.png" width="200" style="margin-right:20px;"></a>
+<a href="/assets/images/calvin/calvin-lockscreen.png"><img src="/assets/images/calvin/screenshot-lockscreen.png" width="200"></a>
