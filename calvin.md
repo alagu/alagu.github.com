@@ -2,6 +2,8 @@
 layout: page
 title: "Calvin and Hobbes"
 description: ""
+theme:
+  name: twitter
 ---
 {% include JB/setup %}
 
