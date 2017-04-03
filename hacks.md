@@ -2,6 +2,8 @@
 layout: page
 title: $ cat hacks.txt
 tagline: 
+theme:
+  name: twitter
 ---
 {% include JB/setup %}
 
