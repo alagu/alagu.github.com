@@ -7,7 +7,7 @@ theme:
 ---
 {% include JB/setup %}
 
-Hello, this is Alagu's page. I'm currently working on my startup - [Askmile](https://www.askmile.com/).
+Hello, this is Alagu's page. I'm currently working on my startup - [Peoplebox](https://www.peoplebox.ai/).
 
 # Posts
 <ul>
