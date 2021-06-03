@@ -1,3 +1,7 @@
+---
+layout: post
+title:  Alexa to personalise yoga routine
+---
 I've learnt Yoga through several training sessions (Bihar School of Yoga, Trainers and Cult.fit) and have been doing Yoga for past 10 years. But one thing that has been hard is to create a disciplined routine.
 
 ### Why routine?
