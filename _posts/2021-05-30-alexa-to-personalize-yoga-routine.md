@@ -20,32 +20,24 @@ I created my own Yoga routine that would play as a mp3 in Alexa using SSML (Spee
 
 Sample Snippet:
 
-    <speak>
-    <break time='1s' />Get ready for वीरभद्रासना on right leg <break time='5s' />
-     Exhale  <break time='2500ms'/>
-     Inhale  <break time='2500ms'/>
-     Exhale  <break time='2500ms'/>
-     Inhale  <break time='2500ms'/>
-     Exhale  <break time='2500ms'/>
-     Inhale  <break time='2500ms'/>
-     Exhale  <break time='2500ms'/>
-     Inhale  <break time='2500ms'/>
-     Exhale  <break time='2500ms'/>
-     Inhale  <break time='2500ms'/>
-    5 <break time='2500ms'/>
-    4 <break time='2500ms'/>
-    3 <break time='2500ms'/>
-    2 <break time='2500ms'/>
-    1 <break time='2500ms'/>
-    </speak>
+{% gist alagu/b092ab227f8293ae6fab273534fbcf05 yoga.xml %}
 
 This has helped me get into routine significantly because I've iterated on several versions of my routine. Starting with long sessions, removing some asanas, adding meditation, adding breathing exercises. It has served me quite well.
 
 ### What you get finally
 
-https://www.youtube.com/watch?v=KYaA0c-ZaYc
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KYaA0c-ZaYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-And then it starts playing your audio: https://github.com/alagu/yoga-trainer/raw/master/short.mp3
+
+And then it starts playing your audio: 
+
+<audio
+        controls
+        src="https://github.com/alagu/yoga-trainer/raw/master/short.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+    
 
 In the above audio it does feel like Alexa is angry :-) I've improved the audio by adding pleasing background music using Audacity to make it less boring.
 
