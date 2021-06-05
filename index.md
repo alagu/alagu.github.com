@@ -23,7 +23,7 @@ My interests are Products, Longevity, Yoga and Tamil Music.
   {% endfor %}
 </ul>
 
-## Elsewhere
+**Elsewhere**
 
 - [Twitter](http://twitter.com/alagu)
 - [Facebook](http://facebook.com/alagu)
