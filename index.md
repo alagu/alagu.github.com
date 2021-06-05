@@ -12,7 +12,7 @@ Currently, I’m building [Peoplebox](https://www.peoplebox.ai) – a tool for b
 
 My interests are Products, Longevity, Yoga and Tamil Music.
 
-## Posts
+**Posts**
 
 <ul>
   {% for post in site.posts %}
