@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  Alexa to personalise yoga routine
+title: Alexa to personalise yoga routine
 ---
+
 I've learnt Yoga through several training sessions (Bihar School of Yoga, Trainers and Cult.fit) and have been doing Yoga for past 10 years. But one thing that has been hard is to create a disciplined routine.
 
 ### Why routine?
 
-*   Habit building: The moment you wake up and think "what asanas should I do today?", it reduces chances of making it a habit. Activities like running have a benefit - you don't need to think. Just run. I wanted the habit to be as less friction as brushing my teeth.
-*   Benefit of compounding: Health is something that gives compounding returns when you do it consistently. I've been inspired by my Uncle (healthiest among his siblings) who has been doing Yoga for past 30 years. He spends 1 hour every day, fixed routine.
+- Habit building: The moment you wake up and think "what asanas should I do today?", it reduces chances of making it a habit. Activities like running have a benefit - you don't need to think. Just run. I wanted the habit to be as less friction as brushing my teeth.
+- Benefit of compounding: Health is something that gives compounding returns when you do it consistently. I've been inspired by my Uncle (healthiest among his siblings) who has been doing Yoga for past 30 years. He spends 1 hour every day, fixed routine.
 
 One negative effect of routines is that it might end up becoming monotonous/boring. But it hasn't happened so far for me.
 

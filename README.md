@@ -1,3 +1,4 @@
-# Personal log
+# Alagu Blog
 
-Just my personal log.
+
+Using Jekyll for this blog. [source](https://demo.getpoole.com).
