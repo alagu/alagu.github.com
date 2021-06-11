@@ -3,13 +3,13 @@ layout: post
 title: How to ship features in your first job
 ---
 
-I wrote this how-to for the new-hires and interns who joined [Peoplebox](https://www.peoplebox.ai/) recently. It might seem obvious for folks who have been doing this for long, but not for first-timers. 
+I wrote this how-to for the new-hires and interns who joined [Peoplebox](https://www.peoplebox.ai/) recently. It might seem obvious for folks who have been doing this, but not for first-timers.
 
 1. **Understand the feature**
     - Understand the feature, design, see what is there current experience. If new, understand the current code.
     - Find out broken flows in the feature shared by the product/design person.
     - Find out which customer needs it and why. See if this is the best solution. Wear your product manager hat.
-    - Understand how this helps the business. Your change does bring in $$
+    - Understand how this helps the business. Your change should either bring in 🙂 or 💰
 2. **Break into smaller releases/versions**
     - If the feature seems really large, break it down into multiple small, meaningful releases.
     - This might be harder at first, but you could figure out what features to remove from scope from first release, but still be valuable for the customer.
@@ -43,7 +43,7 @@ I wrote this how-to for the new-hires and interns who joined [Peoplebox](https:/
 9. **Release it to production**
     1. Merge your code with master
     2. Release to production with senior engineers.
-    3. Watch Luckyorange, metrics after the release - see if users are using your features.
+    3. Watch metrics after the release - see if users are using your features.
 
 
 If you read this, also read [20 tips for your first job](http://atulchitnis.net/2011/first-job/)
