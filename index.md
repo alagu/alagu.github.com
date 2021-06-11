@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+published: true
 ---
 
 Hi there, I’m Alagu.
