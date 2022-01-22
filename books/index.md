@@ -1,4 +1,7 @@
-
+--
+layout: page
+title: Book Notes
+--
 
 <ul>
   {% for page in site.pages %}
