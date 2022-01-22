@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: post
 title: This Divided Island
 author: Samanth Subramanian
-date: 2022-01-22
 categories: Books
 ---
 
