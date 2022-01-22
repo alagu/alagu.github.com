@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: This Divided Island
 author: Samanth Subramanian
 categories: Books
