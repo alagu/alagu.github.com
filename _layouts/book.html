@@ -4,6 +4,7 @@ layout: default
 
 <article class="page">
   <h1 class="page-title">{{ page.title }}</h1>
-  <span>{{page.date}}</span>
+  <span>{{page.date | date: "%-d %B %y"}}</span>
+  <br/><br/>
   {{ content }}
 </article>

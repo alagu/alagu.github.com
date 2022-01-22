@@ -6,7 +6,7 @@ published: true
 
 Hi there, I’m Alagu.
 
-I’m an Engineer, Product guy – mostly a maker. I love building useful things. I’ve worked previously at Yahoo!, Zynga, Hackerrank and Practo. I also built my own startup – Markupwand, part of YCombinator Summer 2012.
+I’m an Engineer, Product guy – mostly a maker. I love building useful things. I’ve worked previously at Yahoo!, Zynga, Hackerrank and Practo. My first startup was [Markupwand](https://techcrunch.com/2012/08/17/markupwand), which was part of YCombinator Summer 2012.
 
 Currently, I’m building [Peoplebox](https://www.peoplebox.ai) – a tool for building engaged & high-performing remote teams.
 
