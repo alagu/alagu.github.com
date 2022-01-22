@@ -6,7 +6,7 @@ title: Book Notes
 <ul>
   {% for page in site.pages %}
     <li>
-      <a href="{{ page.url }}">{{ page.title }}</a>
+      <a href="{{ page.url }}">{{ page.title }}</a> {{page.category}} {{page.categories}}
     </li>
   {% endfor %}
 </ul>
