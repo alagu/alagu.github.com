@@ -1,4 +1,3 @@
-# Book Notes
 
 {% for category in site.categories %}
     <h3>{{ category | first }}</h3>
