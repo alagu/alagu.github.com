@@ -1,17 +1,9 @@
 
-{% for category in site.categories %}
-    <h3>{{ category | first }}</h3>
-    {% for post in page.categories.category %}
-      {{ post.title }}<br>
-    {% endfor %}            
-{% endfor %}
-
 
 <ul>
-  {% for post in site.posts %}
+  {% for page in site.pages %}
     <li>
-      <span>{{post.date | date: '%B %Y'}}</span>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ page.url }}">{{ page.title }}</a>
     </li>
   {% endfor %}
 </ul>
