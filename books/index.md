@@ -15,3 +15,6 @@ title: Book Notes
 </ul>
 
 # Reading list
+
+- [The Menu of Happiness](https://www.amazon.in/Menu-Happiness-Hisashi-Kashiwai/dp/103506071X)
+- 
