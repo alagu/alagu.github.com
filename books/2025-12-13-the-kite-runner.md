@@ -6,14 +6,18 @@ categories: Books
 date: 2025-12-13
 ---
 
-This book was an emotional roller coaster. This is second fiction with historical events tied together. Almost so much of history closely connected that I had so much of suspicision that this was Khaled's original story. But seems like many parts of the story were from his personal experiences in Kabul. Khaled is a phenomenal story teller.  I udnerstood more about Afghans and Afghanistan.
+This book was an emotional roller coaster. It was an easy read and a definite page turner. This is the second war related book I have read, but this one is fiction tied closely to real historical events.
 
-I read the initial part of the story very slow, read it over several days, but the last 200 pages, I read voraciously. Finished in two days. The regret and guilt is so much relatable. 
+So much history is woven into the story that at times I suspected it might be Khaled Hosseini’s own story. It feels like many parts come from his personal experiences in Kabul. He is a phenomenal storyteller, and through this book I understood much more about Afghans and Afghanistan.
 
-He set it so relatable that in the end Sohrab still didn't completely get along with the family, we wanted a happy-lived-ever-after story.  But there is very rarely things like that. There is so much of baggage you carry as you grow up. Sometimes the baggage, the expectations become your identity. 
+I read the beginning slowly, over several days. But the last 200 pages I read non stop and finished in just two days. The feelings of regret and guilt in the story are deeply relatable.
 
-When the story started with Kabul where there is a entitled kid with his rich dad without his mother longing for father's affection - it still felt entitled. But the story of Hazaras going through ethnic discrimiation felt so relatable, similar to the story of Divided Island. But less fact, more fiction. Then the moving from Afghanistan to Pakistan. I've met several Afghan cab drivers in Bay Area, never knew there was a thriving afghan community in US. Then the entire story about how he meets Soraya, makes his father go and ask for her. Though may be he assumed Soraya likes him in an obvious way. The way he still lives with guilt with Haasan for so long and finally goes to Pakistan and Afghanistan. Afghanistan as a country has suffered so much - I feel we are gifted to be in a country where there is some stability. Finally going back to Afghanistan, meeting his childhood nemesis and getting his nephew back, adopting him. It was also another roller coaster that Sohrab tried suicide to be away from everything. PTSD is real. 
+The ending felt very real. Sohrab does not suddenly fit into the family, even though we hope for a happy ever after. Life rarely works that way. We carry a lot of baggage as we grow up, and sometimes that baggage and those expectations become our identity.
 
-Sometimes these stories are too painful to read. I don't know what this gives me. It probably says whatever we are going through is nothing.  
+When the story starts in Kabul, with an entitled child, a rich father, and a missing mother, it feels uncomfortable but distant. But the story of the Hazaras and the ethnic discrimination they face feels very real and painful, similar to the idea of a divided land. It has less facts and more fiction, which makes it easier to connect emotionally. The move from Afghanistan to Pakistan, and later to the US, was eye opening. I have met many Afghan cab drivers in the Bay Area, but I never knew there was such a strong Afghan community there.
 
-While this year, this is is just the second book - I hope to read more. 
+The part where he meets Soraya, asks his father to speak to her family, and assumes she likes him felt very human. His guilt over Hassan stays with him for years, and that guilt finally drives him back to Pakistan and Afghanistan. Afghanistan as a country has suffered so much, and reading this made me feel grateful to live in a place with at least some stability. Going back, facing his childhood enemy, rescuing his nephew, and adopting him was another emotional high and low. Sohrab’s suicide attempt was especially painful. PTSD is real, and the book does not shy away from that.
+
+Some parts of the story were hard to read. At times I wondered why I put myself through such pain. Maybe these stories remind me that whatever problems we think we have, they are often small compared to what others endure.
+
+This is only the second book I have read this year, and I hope to read many more.
