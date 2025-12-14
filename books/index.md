@@ -4,14 +4,14 @@ title: Book Notes
 ---
 
 <ul>
-  {% for page in site.pages %}
-    {% if page.categories contains "Books" %}
-      <li>
-        {{page.date | date: "%-d %b'%y"}} -
-        <a href="{{ page.url }}">{{ page.title }}</a>
-      </li>
-    {% endif %}
-  {% endfor %}
+{% assign book_pages = site.pages | where_exp: "page", "page.categories contains 'Books'" | sort: "date" | reverse %}
+
+{% for page in book_pages %}
+  <li>
+    {{ page.date | date: "%-d %b'%y" }} -
+    <a href="{{ page.url }}">{{ page.title }}</a>
+  </li>
+{% endfor %}
 </ul>
 
 # Reading list
